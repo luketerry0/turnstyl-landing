@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: turnstyl
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
+description: TEST TEST TEST
+#intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# turnstyl
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+turnstyl is an easy to use mobile web application which will help college students safely and effectively buy and sell secondhand goods.
